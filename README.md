@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gabriel Alencar and I'm a Junior Data Analyst, from Brazil</h2>
+<h2 align="left">Hi 👋! My name is Gabriel Alencar</h2>
 
 ###
 
@@ -13,7 +13,7 @@
 - **Data Analysis**: SQL, Excel, Power BI
 - **Programming**: Python, JavaScript, HTML, CSS
 - **IT Infrastructure**: Windows Server, Linux, Virtualization, Networking (TCP/IP, routers, switches)
-- **System Integration**: APIs (REST, SOAP), Webservices, ETL Processes
+- **System Integration**: APIs, Webservices, ETL Processes
 - **Project Management**: Agile (Scrum, Kanban), ITIL, Waterfall (PMBOK)
 - **Software & Tools**: Microsoft 365, Azure, Docker, SQL Server
 
@@ -44,4 +44,10 @@
   <a href="https://www.instagram.com/g1alencar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:gabriiel.alencar
+  <a href="mailto:gabriiel.alencar@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/g1alencar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
