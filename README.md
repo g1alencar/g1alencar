@@ -2,14 +2,27 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=g1alencar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=g1alencar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### About Me
+
+<p>I'm passionate about technology and data, with a background in IT infrastructure and data analysis. My journey has led me to develop skills in data integration, analysis, and automation, along with hands-on experience in managing servers, networks, and IT projects.</p>
+
+<p>Currently, I'm focused on applying my skills in data analysis to deliver actionable insights and improve business operations. My goal is to leverage data-driven solutions to foster efficiency and innovation.</p>
+
+### My Skills
+
+- **Data Analysis**: SQL, Excel, Power BI
+- **Programming**: Python, JavaScript, HTML, CSS
+- **IT Infrastructure**: Windows Server, Linux, Virtualization, Networking (TCP/IP, routers, switches)
+- **System Integration**: APIs (REST, SOAP), Webservices, ETL Processes
+- **Project Management**: Agile (Scrum, Kanban), ITIL, Waterfall (PMBOK)
+- **Software & Tools**: Microsoft 365, Azure, Docker, SQL Server
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=g1alencar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=g1alencar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -31,16 +44,4 @@
   <a href="https://www.instagram.com/g1alencar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:gabriiel.alencar@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/g1alencar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/g1alencar/g1alencar/output/snake.svg" alt="Snake animation" />
+  <a href="mailto:gabriiel.alencar
