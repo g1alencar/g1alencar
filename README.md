@@ -11,8 +11,8 @@
 ### My Skills
 
 - **Data Analysis**: SQL, Excel, Power BI
-- **Programming**: Python, JavaScript, HTML, CSS
-- **IT Infrastructure**: Windows Server, Linux, Virtualization, Networking (TCP/IP, routers, switches)
+- **Programming**: Python
+- **IT Infrastructure**: Windows Server, Linux, Virtualization, Networking (TCP/IP, routers, switches), Storage, Backup
 - **System Integration**: APIs, Webservices, ETL Processes
 - **Project Management**: Agile (Scrum, Kanban), ITIL, Waterfall (PMBOK)
 - **Software & Tools**: Microsoft 365, Azure, Docker, SQL Server
